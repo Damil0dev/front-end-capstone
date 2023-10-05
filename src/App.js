@@ -1,3 +1,4 @@
+import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import {ReservationPage} from "./pages/ReservationPage"
 
@@ -6,6 +7,7 @@ function App() {
     <div>
       <Header />
       <ReservationPage />
+      <Footer />
     </div>
   );
 }
