@@ -1,0 +1,11 @@
+.bg-color1{
+    background-color: #4d6b51 !important;
+}
+
+.hover:bg-color1-light{
+    background-color: #678f6c !important;
+}
+
+.text-color1{
+    color: #4d6b51 !important;
+}
