@@ -4,9 +4,12 @@ import {ReservationPage} from "./pages/ReservationPage"
 
 function App() {
   return (
-    <div>
-      <Header />
-      <ReservationPage />
+    <div className='flex flex-col gap-10'>
+      <div>
+        <Header />
+        <ReservationPage />
+      </div>
+      
       <Footer />
     </div>
   );

@@ -6,7 +6,7 @@ import "../components/components.css";
 
 export function ReservationPage() {
   return (
-    <div className='w-full flex flex-col items-center lg:px-60'>
+    <div className='w-full flex flex-col gap-5 items-center lg:px-60'>
       <Banner />
       <Form />
     </div>
